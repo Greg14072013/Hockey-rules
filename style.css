@@ -1,0 +1,47 @@
+header img {
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:Courier New, Courier, monospace;
+    color: #AB7783;
+}
+
+h2 {
+    text-align: center;
+    color: #E79472;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+
+main img {
+    width: 800px;
+    height: 800px;
+}
+
+body {
+    background-color: #FFFFE3;
+}
+
+form {
+    border:3px solid #AB7783;
+    border-radius: 33px;
+}
+
+footer p {
+    text-align: center;
+}
